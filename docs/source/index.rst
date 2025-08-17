@@ -18,7 +18,6 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   installation
    main_panel
    features
    texture_types

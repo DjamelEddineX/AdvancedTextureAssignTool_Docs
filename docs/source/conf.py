@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "Pixelify – Send Your Renders Through"
+project = "AdvancedTextureAssignTool"
 copyright = "2025, FANNΞC"
 author = "FANNΞC"
 
